@@ -142,7 +142,7 @@ This section is divided into **step-by-step tutorials**, **exercises**, and **pr
 1. **Clone this Repository**: Download the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/roblox-lua-learning-path.git
+   git clone https://github.com/JSX1x1/learning/Lua/Roblox.git
    ```
 
 2. **Navigate Through the Sections**: Work through each tutorial and exercise, which will cover topics from basic to advanced Roblox Lua concepts.
