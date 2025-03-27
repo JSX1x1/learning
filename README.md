@@ -24,6 +24,7 @@ The repository contains learning materials for the following programming languag
 - **C++**
 - **Lua**
 - **Php**
+- **SQL**
 
 This list will be regularly updated as more languages and technologies are added.
 
