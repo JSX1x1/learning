@@ -29,31 +29,8 @@ This list will be regularly updated as more languages and technologies are added
 The repository is organized by programming languages and topics. Each language or topic will have its own directory that contains:
 
 - **Example Code**: Code snippets and examples that demonstrate key concepts in the language.
-- **Exercises**: Tasks or mini-projects to help practice the language’s concepts.
 - **Resources**: Links to tutorials, documentation, or additional reading materials.
 - **Solutions**: Step-by-step solutions to the exercises (provided in a separate file or folder).
-
-Example structure:
-
-```
-├── python/
-│   ├── basics/
-│   │   ├── hello_world.py
-│   │   ├── variables.py
-│   ├── exercises/
-│   │   ├── practice_1.py
-│   │   └── practice_2.py
-│   ├── resources/
-│   │   └── python_tutorials.md
-│   └── solutions/
-│       ├── solution_1.py
-│       └── solution_2.py
-├── javascript/
-│   ├── basics/
-│   ├── exercises/
-│   └── resources/
-└── README.md
-```
 
 ## How to Use
 
