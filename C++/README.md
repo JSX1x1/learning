@@ -65,7 +65,7 @@ The learning path provides **step-by-step tutorials**, **exercises**, and **hand
 1. **Clone this Repository**: Download the repository to your local machine.
    
    ```bash
-   git clone https://github.com/your-username/cpp-learning-path.git
+   git clone https://github.com/JSX1x1/learning/C++.git
    ```
 
 2. **Navigate Through the Sections**: Follow the instructions in each file or tutorial to work through the material.
