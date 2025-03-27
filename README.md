@@ -40,7 +40,7 @@ To get started with the repository, simply follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/learning-repository.git
+   git clone https://github.com/JSX1x1/learning.git
    cd learning-repository
    ```
 
