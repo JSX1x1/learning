@@ -27,6 +27,7 @@ The repository contains learning materials for the following programming languag
 - PHP
 - SQL
 - Rust
+- GoLang (Go)
 
 These languages were selected based on their popularity and wide use in both academic and industry settings. This list will be regularly updated as more languages and technologies are added.
 
